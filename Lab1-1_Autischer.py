@@ -1,0 +1,6 @@
+x = int(input('Geben Sie Zahl 1 ein '))
+y = int(input('Geben Sie Zahl 2 ein '))
+print("Ergebnis der Addition",x+y)
+print("Ergebnis der Subtraktion:",x-y)
+print("Ergebnis der Division:",x/y)
+print("Ergebnis der Multiplikation:",x*y)
